@@ -1,0 +1,12 @@
+maven
+java
+3.1.7
+
+
+.jar
+java 17
+
+dependencies
+-- graal ivm native
+-- MySql JDBC server
+-- Spring Web
